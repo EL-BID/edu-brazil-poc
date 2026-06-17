@@ -28,7 +28,7 @@ dash-table==5.0.0
     # via dash
 flask==3.0.3
     # via dash
-geopandas==1.0.1
+geopandas==1.1.2
     # via app-classrooms-deficit-estimation (pyproject.toml)
 gunicorn==23.0.0
     # via app-classrooms-deficit-estimation (pyproject.toml)
